@@ -10,3 +10,9 @@ The **M-MAD** framework is a systematic LLM-based multi-agent framework for adva
 3. **Final Judgement**: synthesizing the debated outcomes through a final judge agent to produce a comprehensive evaluation judgment.
 
 ![framework.png](asset/framework.png)
+
+## Meta-evaluation
+To run the meta-evaluation for the metrics, execute the following file:
+```bash
+/mt-metrics-eval/mt_metrics_eval/wmt23_metrics.ipynb
+```

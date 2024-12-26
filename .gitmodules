@@ -1,3 +1,0 @@
-[submodule "mt-metrics-eval"]
-	path = mt-metrics-eval
-	url = https://github.com/google-research/mt-metrics-eval.git

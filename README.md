@@ -14,5 +14,5 @@ The **M-MAD** framework is a systematic LLM-based multi-agent framework for adva
 ## Meta-evaluation
 To run the meta-evaluation for the metrics, execute the following file:
 ```bash
-/mt-metrics-eval/mt_metrics_eval/wmt23_metrics.ipynb
+wmt23_metrics.ipynb
 ```

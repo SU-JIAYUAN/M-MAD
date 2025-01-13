@@ -23,3 +23,15 @@ To run the meta-evaluation for the metrics, execute the following file:
 
 ```bash
 wmt23_metrics.ipynb
+```
+
+## Citation
+
+```
+@article{feng2024mmad,
+  title={M-MAD: Multidimensional Multi-Agent Debate Framework for Fine-grained Machine Translation Evaluation},
+  author={Feng, Zhaopeng and Su, Jiayuan and Zheng, Jiamei and Ren, Jiahan and Zhang, Yan and Wu, Jian and Wang, Hongwei and Liu, Zuozhu},
+  journal={arXiv preprint arXiv:2412.20127},
+  year={2024}
+}
+```

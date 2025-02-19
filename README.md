@@ -17,7 +17,22 @@ The **M-MAD** framework is a systematic LLM-based multi-agent framework for adva
 For a detailed explanation of the M-MAD framework, please refer to the paper:  
 [Multidimensional Multi-Agent Debate for Advanced Machine Translation Evaluation (arXiv)](https://arxiv.org/pdf/2412.20127)
 
-## Meta-evaluation
+## **💻** Running the Code
+### Stage 1 (Dimension Partition)
+
+```bash
+sh run_stage1.sh
+```
+
+### Stage 2 & 3 (Muti-Agent Debate & Final Judgement)
+
+To run the meta-evaluation for the metrics, execute the following file:
+
+```bash
+sh run_stage2_3.sh
+```
+
+### Meta-evaluation
 
 To run the meta-evaluation for the metrics, execute the following file:
 
